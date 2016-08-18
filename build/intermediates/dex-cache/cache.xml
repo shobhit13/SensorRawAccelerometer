@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\User\Desktop\SensorRawAccelerometer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6780b68b2e3301b1ea34c86d1f69b550674ecd3a">
+        <dex dex="C:\Users\User\Desktop\SensorRawAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8566cf0d2217cce4946a462fadb73826df9e32bf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\User\Desktop\SensorRawAccelerometer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c9325266e71e423ad0e86fb11d44fa974284ae55">
+        <dex dex="C:\Users\User\Desktop\SensorRawAccelerometer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_697fbb22c96af9a9eb38fa75c183ee63c3477f93\classes.dex" />
+    </item>
+
+</items>
